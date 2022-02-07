@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 https://imgur.com/a/UDHDoRl
 
+<img src="https://imgur.com/a/UDHDoRlf" width="40" height="40" />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
